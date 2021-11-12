@@ -1,2 +1,5 @@
-# Curso-de-NodeJs-com-SQL-Rocketseat
-Este repositório mostrar os meus estudos de NodeJs  e Sql
+# Repositorio que vai descrever a minha trilha de estudos de Nodejs e SQL através do curso da Rocketseat.
+# Atividades: :pencil: :man_technologist:
+
+
+
