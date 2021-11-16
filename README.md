@@ -17,3 +17,11 @@
 - [<= Menor ou igual](https://github.com/macmiller87/Curso-de-NodeJs-com-SQL-Rocketseat/blob/main/Operadores_realacionais/menor_ou_igual.sql)
 - [<> Não igual a](https://github.com/macmiller87/Curso-de-NodeJs-com-SQL-Rocketseat/blob/main/Operadores_realacionais/nao_igual_a.sql)
 - [!= Diferente de](https://github.com/macmiller87/Curso-de-NodeJs-com-SQL-Rocketseat/blob/main/Operadores_realacionais/diferente_de.sql)
+
+# Módulo Operadores Matemáticos
+
+- [+ Adição](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Operadores_matematicos/adicao.sql)
+- [- Subtração](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Operadores_matematicos/subtracao.sql)
+- [* Multiplicação](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Operadores_matematicos/multiplicacao.sql)
+- [/ Divisão](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Operadores_matematicos/divisao.sql)
+- [% Módulo](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Operadores_matematicos/modulo.sql)
