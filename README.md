@@ -25,3 +25,11 @@
 - [* Multiplicação](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Operadores_matematicos/multiplicacao.sql)
 - [/ Divisão](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Operadores_matematicos/divisao.sql)
 - [% Módulo](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Operadores_matematicos/modulo.sql)
+
+# Módulo Operadores Lógicos
+
+- [And](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Operadores_logicos/and.sql)
+- [Or](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Operadores_logicos/or.sql)
+- [Between](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Operadores_logicos/between.sql)
+- [In e Not In](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Operadores_logicos/in_e_not_in.sql)
+- [Is Null e Is Not Null](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Operadores_logicos/isNull_e_isNotNull.sql)
