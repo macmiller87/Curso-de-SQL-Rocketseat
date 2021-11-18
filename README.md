@@ -33,3 +33,9 @@
 - [Between](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Operadores_logicos/between.sql)
 - [In e Not In](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Operadores_logicos/in_e_not_in.sql)
 - [Is Null e Is Not Null](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Operadores_logicos/isNull_e_isNotNull.sql)
+
+# Módulo Mais Comandos
+
+- [Insert into](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Mais_comandos/insert.sql)
+- [Update](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Mais_comandos/update.sql)
+- [Delete](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Mais_comandos/delete.sql)
