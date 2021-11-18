@@ -1,0 +1,1 @@
+DELETE FROM aluno WHERE matricula = 4;

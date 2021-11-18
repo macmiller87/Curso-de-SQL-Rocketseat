@@ -1,0 +1,1 @@
+INSERT INTO aluno(nome, cpf, responsavel) VALUES ('Maria Luiza', 123456789, 'Wantuil Soares');
