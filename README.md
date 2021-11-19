@@ -39,3 +39,11 @@
 - [Insert into](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Mais_comandos/insert.sql)
 - [Update](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Mais_comandos/update.sql)
 - [Delete](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Mais_comandos/delete.sql)
+
+# Módulo Unindo Tabelas
+
+- [Join](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Unindo_tabelas/join.sql)
+- [Join com Where](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Unindo_tabelas/join_com_where.sql)
+- [Join especificando campos](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Unindo_tabelas/join_especificando_campos.sql)
+- [Alias](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Unindo_tabelas/Alias.sql)
+- [Left Outer Join](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Unindo_tabelas/Left_outer_join.sql)
