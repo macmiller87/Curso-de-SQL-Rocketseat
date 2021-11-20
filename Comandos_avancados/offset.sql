@@ -1,0 +1,3 @@
+SELECT * FROM funcionarios LIMIT 4 OFFSET 2;
+
+SELECT * FROM funcionarios LIMIT 4 OFFSET 4;
