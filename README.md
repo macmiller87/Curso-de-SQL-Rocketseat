@@ -47,3 +47,14 @@
 - [Join especificando campos](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Unindo_tabelas/join_especificando_campos.sql)
 - [Alias](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Unindo_tabelas/Alias.sql)
 - [Left Outer Join](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Unindo_tabelas/Left_outer_join.sql)
+
+# Módulo Comandos Avançados
+
+- [Order by](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Comandos_avancados/order_by.sql)
+- [Limit](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Comandos_avancados/limit.sql)
+- [Offset](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Comandos_avancados/offset.sql)
+- [Count](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Comandos_avancados/count.sql)
+- [Group by](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Comandos_avancados/group_by.sql)
+- [Join, Group by e Count juntos](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Comandos_avancados/comandos_juntos.sql)
+- [Having](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Comandos_avancados/having.sql)
+
