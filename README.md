@@ -58,3 +58,8 @@
 - [Join, Group by e Count juntos](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Comandos_avancados/comandos_juntos.sql)
 - [Having](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Comandos_avancados/having.sql)
 
+# Módulo Comando nas Tabelas
+
+- [Create table](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Tables_beekeeper/escola.sqlite)
+- [Alter table](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Comando_nas_tabelas/alter_table.sql)
+- [Drop table](https://github.com/macmiller87/Curso-de-SQL-Rocketseat/blob/main/Comando_nas_tabelas/drop_table.sql)
